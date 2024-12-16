@@ -1,0 +1,10 @@
+{
+  "name": "Pudgy Penguins",
+  "symbol": "PENGU",
+  "description": "Pudgy Penguins",
+  "image": "https://pbs.twimg.com/profile_images/1848765927451492364/VysuN6mu_400x400.jpg",
+  "extensions": {
+    "website": "https://pudgypenguins.com",
+    "twitter": "https://twitter.com/pudgypenguins",
+  }
+}
